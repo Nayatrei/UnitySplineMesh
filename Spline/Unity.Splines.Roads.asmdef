@@ -1,0 +1,20 @@
+{
+    "name": "Unity.Splines.Roads",
+    "rootNamespace": "",
+    "references": [
+        "GUID:21d1eb854b91ade49bc69a263d12bee2",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e43142fc3fec6554980dde6126631f1d",
+        "GUID:fb58d5396d4f85044a40c7548929c37d",
+        "GUID:3b0fa64b5c28a7b4ea9661e340f57f9f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
